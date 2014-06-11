@@ -29,3 +29,7 @@ http://www.techradar.com/news/internet/web/12-best-places-to-get-free-images-for
 http://www.merriam-webster.com/
 http://dictionary.cambridge.org/
 http://www.thefreedictionary.com/
+
+5. English language word database
+http://wordnet.princeton.edu/wordnet/
+http://stackoverflow.com/questions/2213607/how-to-get-english-language-word-database
