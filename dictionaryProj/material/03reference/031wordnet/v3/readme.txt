@@ -1,0 +1,1 @@
+THE data is from http://wordnet.princeton.edu/wordnet/
