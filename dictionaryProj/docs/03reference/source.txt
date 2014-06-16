@@ -1,3 +1,7 @@
+0.importance materials:
+http://visual.merriam-webster.com/
+
+
 1. top 1000 
 http://www.oxforddictionaries.com/us/top1000/american_english
 2. example family
